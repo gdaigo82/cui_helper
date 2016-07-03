@@ -1,7 +1,7 @@
 【手抜きUI】C#でCUIな人が楽するためのGUIフレームワーク（萌えあり？）
 ====
 
-詳細はQiitaに書かせていただきました。 
+詳細はQiitaに書かせていただきました。DLLにしたので更新もしています。 
 http://qiita.com/GDaigo/items/5b7d7cbf3429b271ccf5
 
 ## ライセンス
