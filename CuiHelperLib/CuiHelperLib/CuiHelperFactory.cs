@@ -88,7 +88,7 @@ namespace CuiHelperLib
             e.Handled = true;
         }
 
-        public void OnClickButton()
+        public void OnComboBoxEvent()
         {
             CuiHelperComboBoxData data = (CuiHelperComboBoxData)m_inputComboBox.SelectedItem;
             if (data == null)

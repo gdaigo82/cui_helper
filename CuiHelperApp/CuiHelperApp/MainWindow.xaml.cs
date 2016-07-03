@@ -60,7 +60,7 @@ namespace CuiHelperApp
         private void ClickGo(object sender, RoutedEventArgs e)
         {
             // CuiHelperFactoryにComboBoxで選んだアイテムを実行させます。
-            m_appFactory.OnClickButton();
+            m_appFactory.OnComboBoxEvent();
         }
         
         // WindowDrop関数が必要です。以下をコピペしちゃってください。
